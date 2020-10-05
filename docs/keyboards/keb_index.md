@@ -1,1 +1,1 @@
-tbd
+<img src="images/keb-v2.png">
